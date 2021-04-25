@@ -39,7 +39,7 @@ clear:both;
 	margin-bottom:5%;
 }
 
-#title {
+#title, #footer {
 	position:fixed;
 	top:0px;
 	left:0px; 
