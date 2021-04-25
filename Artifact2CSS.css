@@ -26,12 +26,6 @@ float:left;
 clear:both; 
 }
 
-#footer {
-	border:solid 1px;
-	padding: 10px;
-	margin: 10px;
-}
-
 #container{
 	margin-top:20%;
 	margin-left:10%;
@@ -53,6 +47,12 @@ clear:both;
 	font-weight: normal; 
 	font-style: normal; 
 	font-size:36px;
+}
+
+#footer {
+	border:solid 1px;
+	padding: 10px;
+	margin: 10px;
 }
 img {
 	margin-left: auto;
